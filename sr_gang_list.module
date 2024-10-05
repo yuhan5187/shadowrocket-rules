@@ -1,0 +1,8 @@
+#!name=gang-rule
+#!desc=Description Here
+
+[Rule]
+RULE-SET,https://whatshub.top/rule/Netflix.list,🎬 NETFLIX
+RULE-SET,https://whatshub.top/rule/YouTube.list,📽️ YOUTUBE
+
+DOMAIN-SUFFIX,speedtest.net,PROXY
