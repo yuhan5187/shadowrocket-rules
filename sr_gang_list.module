@@ -4,5 +4,6 @@
 [Rule]
 RULE-SET,https://whatshub.top/rule/Netflix.list,🎬 NETFLIX
 RULE-SET,https://whatshub.top/rule/YouTube.list,📽️ YOUTUBE
+RULE-SET,https://whatshub.top/rule/GoogleVoice.list,🇺🇸 美国节点
 
 DOMAIN-SUFFIX,speedtest.net,PROXY
