@@ -11,3 +11,4 @@ RULE-SET,https://whatshub.top/rule/Speedtest.list,PROXY
 DOMAIN-SUFFIX,speedtest.net,PROXY
 DOMAIN-SUFFIX,nodeseek.com,PROXY
 DOMAIN-SUFFIX,w3schools.com,DIRECT
+DOMAIN-SUFFIX,sav.com,PROXY
