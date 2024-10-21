@@ -2,10 +2,16 @@
 #!name=gang-rule
 #!desc=Description Here
 
+
+[Proxy Group]
+
+🤖 OpenAi = select,🇺🇸 美国节点,🇭🇰 香港节点,🇸🇬 新加坡节点,policy-select-name=🇸🇬 新加坡节点
+
 [Rule]
 RULE-SET,https://whatshub.top/rule/Netflix.list,🎬 NETFLIX
 RULE-SET,https://whatshub.top/rule/YouTube.list,📽️ YOUTUBE
 RULE-SET,https://whatshub.top/rule/GoogleVoice.list,🇺🇸 美国节点
+RULE-SET,https://whatshub.top/rule/OpenAI.list,🤖 OpenAi
 RULE-SET,https://whatshub.top/rule/Speedtest.list,PROXY
 
 DOMAIN-SUFFIX,speedtest.net,PROXY
