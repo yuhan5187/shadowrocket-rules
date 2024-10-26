@@ -13,10 +13,13 @@ RULE-SET,https://whatshub.top/rule/AppleMusic.list,DIRECT
 
 DOMAIN-SUFFIX,speedtest.net,PROXY
 DOMAIN-SUFFIX,nodeseek.com,PROXY
-DOMAIN-SUFFIX,w3schools.com,DIRECT
 DOMAIN-SUFFIX,sav.com,PROXY
 DOMAIN-SUFFIX,cdnst.net,PROXY
 DOMAIN-SUFFIX,whatismyipaddress.com,PROXY
 DOMAIN-SUFFIX,hqporner.com,PROXY
 DOMAIN-SUFFIX,bigcdn.cc,PROXY
 DOMAIN-SUFFIX,hjd2048.com,PROXY
+
+
+DOMAIN-SUFFIX,w3schools.com,DIRECT
+DOMAIN-SUFFIX,itdog.cn,DIRECT
