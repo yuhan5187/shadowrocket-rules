@@ -11,6 +11,10 @@ RULE-SET,https://whatshub.top/rule/OpenAI.list,🤖 OpenAi
 RULE-SET,https://whatshub.top/rule/Speedtest.list,PROXY
 RULE-SET,https://whatshub.top/rule/AppleMusic.list,DIRECT
 
+
+
+DOMAIN-SUFFIX,unogs.com,🎬 NETFLIX
+
 DOMAIN-SUFFIX,speedtest.net,PROXY
 DOMAIN-SUFFIX,nodeseek.com,PROXY
 DOMAIN-SUFFIX,sav.com,PROXY
